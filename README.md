@@ -1,1 +1,2 @@
 # odin_Recipes
+The current project I am working on is the Odin Project's "Recipes" project, which is a fundamental part of their web development curriculum. This project aims to teach essential web development skills by creating a simple recipe website. Once I have completed this project, I will have demonstrated several key skills with HTML and git.
